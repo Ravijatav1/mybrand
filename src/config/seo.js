@@ -1,10 +1,6 @@
-// ============================================================
-// SEO CONFIG — Har page ka unique metadata yahan define karo
-// WhatsApp / OG preview bhi yahan se aata hai
-// IMPORTANT: BASE_URL ko apne Vercel domain se replace karo
-// ============================================================
 
-export const BASE_URL = 'https://your-domain.vercel.app'
+
+export const BASE_URL = 'https://mybrand-five.vercel.app'
 
 export const SEO_CONFIG = {
   home: {
